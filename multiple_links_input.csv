@@ -1,0 +1,6 @@
+id, starting_airport, ending_airport, start_date, end_date, adults, students, seniors, youths, children, todlers, infants, flight_class
+0,cdg, scl, 20-05-2025, 02-07-2025, 2, 0, 0, 0, c, 3, 0, 2
+1,JFK, LAX, 22-06-2025, 15-08-2025, 1, 0, 0, 0, 1, 0, 0, 1
+2,DXB, SYD, 18-03-2025, 10-11-2025, 0, 0, 1, 0, 2, 0, 2, 3
+3,LHR, NRT, 30-09-2025, 12-12-2025, 3, 0, 0, 0, 0, 2, 0, 0
+4,SIN, FRA, 14-07-2025, 18-01-2026, 0, 1, 0, 0, 0, 0, 2, 2

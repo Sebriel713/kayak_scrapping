@@ -95,6 +95,7 @@ The extracted data will be stored in a CSV file for further analysis.
 ## 🤝 Contributions
 Feel free to submit pull requests or open issues if you have suggestions! 
 
+## 🧑‍💻Personal Message
 I cannot express how happy I'm with this experience. Doing the project was super fun and challenging. The code has many errors and could be improven on a lot. I'm in no way a senior developer or professional, so, really, any input is happily received. 
 
 Alas, I wanted to thank the internet for helping creating this project, for I've benefited a lot from many platforms that could give insights or help to either format or make my code better/more efficient. Happy coding!
